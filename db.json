@@ -2,58 +2,58 @@
     "Prediction": [
       {
         "id": 1,
-        "Date": "2016-09-20T00:00:00",
-        "Open": "769",
-        "High": "773.330017",
-        "Low": "768.530029",
-        "Close": "771.409973",
-        "Volume": "975300",
-        "Scored Label Mean":"771.362489",
-        "Scored Label Standard Deviation":"0.591541"
+        "Date": "Date2016-09-20T00:00:00",
+        "Open": "Open769",
+        "High": "High773.330017",
+        "Low": "Low768.530029",
+        "Close": "Close771.409973",
+        "Volume": "Volume975300",
+        "ScoredLabelMean":"Scored Label Mean771.362489",
+        "ScoredLabelStandardDeviation":"Scored Label Standard Deviation0.591541"
       },
       {
         "id": 2,
-        "Date": "2016-09-19T00:00:00",
-        "Open": "772.419983",
-        "High": "774",
-        "Low": "764.440979",
-        "Close": "765.700012",
-        "Volume": "1171100",
-        "Scored Label Mean":"765.584059",
-        "Scored Label Standard Deviation":"3.88604"
+        "Date": "Date2016-09-19T00:00:00",
+        "Open": "Open772.419983",
+        "High": "High774",
+        "Low": "Low764.440979",
+        "Close": "Close765.700012",
+        "Volume": "Volume1171100",
+        "ScoredLabelMean":"Scored Label Mean765.584059",
+        "ScoredLabelStandardDeviation":"Scored Label Standard Deviation3.88604"
     },
     {
         "id": 3,
-        "Date": "2016-09-16T00:00:00",
-        "Open": "769.75",
-        "High": "769.75",
-        "Low": "764.659973",
-        "Close": "768.880005",
-        "Volume": "2046000",
-        "Scored Label Mean":"766.925616",
-        "Scored Label Standard Deviation":"3.915511"
+        "Date": "Date2016-09-16T00:00:00",
+        "Open": "Open769.75",
+        "High": "High769.75",
+        "Low": "Low764.659973",
+        "Close": "Close768.880005",
+        "Volume": "Volume2046000",
+        "ScoredLabelMean":"Scored Label Mean766.925616",
+        "ScoredLabelStandardDeviation":"Scored Label Standard Deviation3.915511"
     },
     {
         "id": 4,
-        "Date": "2016-09-15T00:00:00",
-        "Open": "762.890015",
-        "High": "773.799988",
-        "Low": "759.960022",
-        "Close": "771.76001",
-        "Volume": "1305100",
-        "Scored Label Mean":"1.980943",
-        "Scored Label Standard Deviation":"1.980943"
+        "Date": "Date2016-09-15T00:00:00",
+        "Open": "Open762.890015",
+        "High": "High773.799988",
+        "Low": "Low759.960022",
+        "Close": "Close771.76001",
+        "Volume": "Volume1305100",
+        "ScoredLabelMean":"Scored Label Mean1.980943",
+        "ScoredLabelStandardDeviation":"Scored Label Standard Deviation1.980943"
     },
     {
         "id": 5,
-        "Date": "2016-09-14T00:00:00",
-        "Open": "759.609985",
-        "High": "767.679993",
-        "Low": "759.109985",
-        "Close": "762.48999",
-        "Volume": "1087400",
-        "Scored Label Mean":"765.687736",
-        "Scored Label Standard Deviation":"3.571136"
+        "Date": "Date2016-09-14T00:00:00",
+        "Open": "Open759.609985",
+        "High": "High767.679993",
+        "Low": "Low759.109985",
+        "Close": "Close762.48999",
+        "Volume": "Volume1087400",
+        "ScoredLabelMean":"Scored Label Mean765.687736",
+        "ScoredLabelStandardDeviation":"Scored Label Standard Deviation3.571136"
     }
     ]
   }
