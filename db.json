@@ -1,6 +1,59 @@
 {
-    "userId": 1,
-    "id": 1,
-    "title": "2016-09-16T00:00:00",
-    "body":  "769.75"
+    "Prediction": [
+      {
+        "id": 1,
+        "Date": "2016-09-20T00:00:00",
+        "Open": "769",
+        "High": "773.330017",
+        "Low": "768.530029",
+        "Close": "771.409973",
+        "Volume": "975300",
+        "Scored Label Mean":"771.362489",
+        "Scored Label Standard Deviation":"0.591541"
+      },
+      {
+        "id": 2,
+        "Date": "2016-09-19T00:00:00",
+        "Open": "772.419983",
+        "High": "774",
+        "Low": "764.440979",
+        "Close": "765.700012",
+        "Volume": "1171100",
+        "Scored Label Mean":"765.584059",
+        "Scored Label Standard Deviation":"3.88604"
+    },
+    {
+        "id": 3,
+        "Date": "2016-09-16T00:00:00",
+        "Open": "769.75",
+        "High": "769.75",
+        "Low": "764.659973",
+        "Close": "768.880005",
+        "Volume": "2046000",
+        "Scored Label Mean":"766.925616",
+        "Scored Label Standard Deviation":"3.915511"
+    },
+    {
+        "id": 4,
+        "Date": "2016-09-15T00:00:00",
+        "Open": "762.890015",
+        "High": "773.799988",
+        "Low": "759.960022",
+        "Close": "771.76001",
+        "Volume": "1305100",
+        "Scored Label Mean":"1.980943",
+        "Scored Label Standard Deviation":"1.980943"
+    },
+    {
+        "id": 5,
+        "Date": "2016-09-14T00:00:00",
+        "Open": "759.609985",
+        "High": "767.679993",
+        "Low": "759.109985",
+        "Close": "762.48999",
+        "Volume": "1087400",
+        "Scored Label Mean":"765.687736",
+        "Scored Label Standard Deviation":"3.571136"
+    }
+    ]
   }
