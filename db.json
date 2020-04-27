@@ -1,6 +1,7 @@
 {
     "Prediction": [
       {
+        "id": 1,
         "Date": "2016-09-20T00:00:00",
         "Open": "769",
         "High": "773.330017",
@@ -11,6 +12,7 @@
         "Scored Label Standard Deviation":"0.591541"
       },
       {
+        "id": 2,
         "Date": "2016-09-19T00:00:00",
         "Open": "772.419983",
         "High": "774",
@@ -21,6 +23,7 @@
         "Scored Label Standard Deviation":"3.88604"
     },
     {
+        "id": 3,
         "Date": "2016-09-16T00:00:00",
         "Open": "769.75",
         "High": "769.75",
@@ -31,6 +34,7 @@
         "Scored Label Standard Deviation":"3.915511"
     },
     {
+        "id": 4,
         "Date": "2016-09-15T00:00:00",
         "Open": "762.890015",
         "High": "773.799988",
@@ -41,6 +45,7 @@
         "Scored Label Standard Deviation":"1.980943"
     },
     {
+        "id": 5,
         "Date": "2016-09-14T00:00:00",
         "Open": "759.609985",
         "High": "767.679993",
